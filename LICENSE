@@ -1,0 +1,36 @@
+MIT License
+
+Copyright (c) 2024 Centaur AI Playground Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ACADEMIC ATTRIBUTION REQUIREMENT:
+
+This software builds upon the research presented in:
+"Centaur: A Foundation Model of Human Cognition\" by Dr. Marcel Binz and research team.
+
+When using this software for academic or research purposes, please cite:
+- Original Centaur AI research: https://marcelbinz.github.io/imgs/Centaur__preprint_.pdf  
+- Dr. Marcel Binz: https://github.com/marcelbinz
+- This implementation: https://github.com/yourusername/centaur-ai-playground
+
+Educational and research use of this software should maintain proper attribution 
+to the original cognitive modeling research that inspired this implementation.
